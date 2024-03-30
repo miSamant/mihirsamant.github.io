@@ -5,15 +5,12 @@ Masters of Applied Computing
 
 ### Work Experience
 Senior Data Analyst @eTraveliGroup
-  - Data Stack
-  - -Airflow
-  - -Python
-  - -DBT
-
-  - BI Stack
-  - -Tableau
-  - -Looker
-  - -PowerBI
+  - ### Airflow
+  - Python
+  - DBT
+  - Tableau
+  - Looker
+  - PowerBI
 
 ### Projects
  - DataTale
