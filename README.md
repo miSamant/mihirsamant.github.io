@@ -1,4 +1,5 @@
 # Mihir Samant
+logo: /assets/img/1631540198700-modified.png
 
 ## Work Experience
 -  Senior Data Analyst @eTraveliGroup (June 2023- Present)
